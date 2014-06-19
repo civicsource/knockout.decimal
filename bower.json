@@ -1,5 +1,5 @@
 {
-  "name": "knockout-magic-textarea",
+  "name": "knockout-decimal",
   "version": "1.0.0",
   "description": "Simple knockout extender that wraps accounting.js to format and coerce decimal values.",
   "main": "knockout.decimal.js",
