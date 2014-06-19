@@ -23,6 +23,6 @@
   ],
   "dependencies": {
     "knockout": "~3.1.0",
-    "jquery": "~1.10"
+    "accounting": "~0.3.2"
   }
 }
