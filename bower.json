@@ -1,18 +1,19 @@
 {
   "name": "knockout-magic-textarea",
   "version": "1.0.0",
-  "description": "Simple knockout binding for magical auto-sizing textarea heights.",
-  "main": "knockout.magic.textarea.js",
+  "description": "Simple knockout extender that wraps accounting.js to format and coerce decimal values.",
+  "main": "knockout.decimal.js",
   "keywords": [
     "knockout",
-    "textarea",
-    "automatic resize"
+    "accounting",
+    "decimal",
+    "format"
   ],
   "authors": [
     "Archon Information Systems"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/ArchonInfoSys/knockout-magic-textarea",
+  "homepage": "https://github.com/ArchonInfoSys/knockout-decimal",
   "ignore": [
     "**/.*",
     "node_modules",
