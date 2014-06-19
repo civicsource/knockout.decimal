@@ -27,6 +27,5 @@ You can also use it to set formatted decimal as a value. This is useful for bind
 
 ```js
 dec.formatted("17,000.56");
-console.log(dec()); //17,000.56
-```
+console.log(dec()); //17000.56
 ```
