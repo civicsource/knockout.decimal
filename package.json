@@ -1,0 +1,31 @@
+{
+  "name": "knockout.decimal",
+  "version": "2.0.0",
+  "description": "Simple knockout extender that wraps accounting.js to format and coerce decimal values.",
+  "main": "knockout.decimal.js",
+  "scripts": {
+    "lint": "eslint . --format=unix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/civicsource/knockout.decimal.git"
+  },
+  "keywords": [
+    "knockout",
+    "accounting",
+    "decimal",
+    "format"
+  ],
+  "author": "CivicSource",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/civicsource/knockout.decimal/issues"
+  },
+  "homepage": "https://github.com/civicsource/knockout.decimal#readme",
+  "peerDependencies": {
+      "knockout": "3.x"
+  },
+  "dependencies": {
+      "accounting": "0.x"
+  }
+}
