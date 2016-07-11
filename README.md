@@ -3,17 +3,13 @@
 > A simple knockout extender for decimals that wraps [accounting.js](http://josscrowcroft.github.io/accounting.js/).
 
 
-##Install with [Bower](http://bower.io/)
+## Installation
 
 ```
-bower install knockout-decimal
+npm install knockout.decimal
 ```
 
-Then add `knockout.decimal.js` to your project.
-
-##How to Use
-
-Include the script on your page (either via a normal script tag or via an AMD loader). Then use it like so:
+## Usage
 
 ```js
 var dec = ko.observable().extend({ decimal: true });
